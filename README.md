@@ -9,3 +9,6 @@
 - Orbits are elliptical but not visible due to scale  
 
 <hr />
+
+# Showcase
+![Screenshot 2024-05-06 041244](https://github.com/yossev/solar-system-simulator/assets/93604359/7d7e64af-2275-4e2f-9b4e-7e2b0189c44b)
